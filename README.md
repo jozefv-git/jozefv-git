@@ -43,7 +43,6 @@ Member of a cross-functional team as the sole Mobile Engineer for the Vext’s m
 - Kotlin
 - Kotlin Multiplatform
 - Compose Multiplatform
-- Jetpack Compose
 - Clean Architecture / SOLID Principles / MVI / UDF
 - Kotlin coroutines & Flow
 - Supabase / Auth / OTP links
