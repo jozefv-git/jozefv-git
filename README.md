@@ -1,6 +1,8 @@
 # Latest:
 ## Mobile Engineer (Technical Owner) at Vext Oy [Read more](https://jozefv-git.github.io/)
 
+Architected and released a Kotlin Multiplatform mobile application with authentication, Bluetooth communication, rich data presentation and UI custom design style to the Google Play and the App Store.
+
 Member of a cross-functional team as the sole Mobile Engineer for the Vext’s mobile application. Product Owner of the full scope application development lifecycle (Concept, Design, Development, Testing, Deployment, Iteration). Defined the technical architecture, UX/UI, and integration with the company’s backend services and IoT hardware. The application includes user authentication, Bluetooth connection with the hardware, hardware configuration and establishment of ownership. Additionally, the application supports multiple hardware devices per account, presentation and updates of the backend data, virtual hardware representation, learning section, dynamic tasks and push notifications. Delivered a complete product for Android and iOS platforms available on Google Play and the App Store. 
 ## Vext mobile application
 <table width="100%">
